@@ -1,0 +1,12 @@
+1. mount c: d:/share/8086
+2. C:
+3. masm filename.asm
+4. link filename.obj
+5. filename.exe
+
+6. debug filename.exe
+7. -u
+8. -d
+9. -g
+10. -d 'first address value':0
+11. -q

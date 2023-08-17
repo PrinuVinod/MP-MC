@@ -1,0 +1,31 @@
+62256
+The 62256 is a high performance CMOS static RAM organized as 32K words by 8 bits
+
+8253
+The Intel 8253 and 8254 are Programmable Interval Timers (PTIs) designed for microprocessors to perform timing and counting
+functions using three 16-bit registers.
+
+8255
+It is a general purpose programmable I/O device designed to interface the CPU with its outside world such as ADC, DAC,
+keyboard etc.
+
+74LS373
+Used to implement simple output ports.
+
+74LS245
+It is an Octal Bus Transmitter/Receiver designed for 8-line asynchronous 2-way data communication between data buses.
+
+8284
+Used to supply clock signals to 8086, 8087.
+
+8288
+It is a bus controller
+
+8086
+16-bit MC Chip
+
+8042
+responsible for managing the keyboard, the mouse, the A20 gate and a few other things.
+
+8255
+It is a Ether-net to GPIB instrument
